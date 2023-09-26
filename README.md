@@ -85,10 +85,17 @@ print("RMSE = ",rmse)
 */
 ```
 
-## Output:
-![263522726-8005dd99-5a09-4708-aaa2-0869a39e51ad](https://github.com/Nethraa24/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215786/c80e9416-47f2-46b7-859d-eb60a47259bc)
+# Output:
 
-![263522732-64ecbe05-5cd2-4719-8d41-71933e06d3a6](https://github.com/Nethraa24/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215786/282f86ef-07ae-484a-a5f6-f2340717ac39)
+## df.head()
+
+
+![image](https://github.com/Nethraa24/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215786/9981556d-df28-4f86-a047-c6c653845fc2)
+
+## df.tail()
+
+
+![image](https://github.com/Nethraa24/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215786/d96c4947-c0f9-40a1-a6dc-6b4dee09f73e)
 
 ## Array values of X
 ![263522752-bd10a07b-9dfa-4b25-bbd3-0fe8e9c35e01](https://github.com/Nethraa24/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121215786/f37167f0-4bb6-47c1-a19a-a10f72d722b1)
